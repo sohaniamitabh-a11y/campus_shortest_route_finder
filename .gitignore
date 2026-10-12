@@ -1,0 +1,9 @@
+# Compiled executables
+campus_route_finder
+*.o
+*.out
+
+# Editor and OS files
+.DS_Store
+*.swp
+*.vscode/
